@@ -1,0 +1,6 @@
+# Tensorflow Tutorials gitignore
+
+.ipynb_checkpoints/
+MNIST_data/
+
+README.html
